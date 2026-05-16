@@ -182,3 +182,9 @@
     border-right-color: var(--border);
   }
 }
+
+.portfolio {
+  width: 100%;
+  overflow-x: hidden;
+  background: #0a0e27;
+}
