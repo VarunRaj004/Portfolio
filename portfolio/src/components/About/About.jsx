@@ -2,7 +2,7 @@ import { useRef, useEffect } from 'react';
 import { useInView } from 'react-intersection-observer';
 import gsap from 'gsap';
 import { Canvas } from '@react-three/fiber';
-import Suspense from 'react';
+import { Suspense } from 'react';
 import FloatingSphere from '../3D/FloatingSphere';
 import './About.css';
 

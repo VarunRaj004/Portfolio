@@ -1,5 +1,4 @@
 import { useRef, useEffect } from 'react';
-import { useScroll, useTrail, useSpring } from '@react-spring/web';
 import gsap from 'gsap';
 import './Projects.css';
 
